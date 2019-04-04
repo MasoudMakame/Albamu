@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Albamu</string>
+    <string name="action_aboutApp">Kuhusu Application</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Tuma Application</string>
+    <string name="action_feedback">Kuhusu Mtengenezaji</string>
+    <string name="action_makubaliano">Makubaliano ya Faragha</string>
+
+    <string name="fontchanger">Badili ukubwa wa maadishi</string>
+</resources>
